@@ -1,0 +1,13 @@
+everyone: 3
+hello: 3
+this: 2
+is: 2
+all: 1
+for: 1
+i: 1
+am: 1
+super: 1
+surya: 1
+and: 1
+varma: 1
+class: 1
